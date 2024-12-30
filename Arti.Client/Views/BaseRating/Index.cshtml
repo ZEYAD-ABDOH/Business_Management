@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Arti.Client.Models.BaseRating>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    @await Html.PartialAsync("~/Views/Servece/AlertErorrcshtml.cshtml")
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quality)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Timeliness)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Professionalism)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Communication)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OverallSatisfaction)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Comments)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quality)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Timeliness)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Professionalism)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Communication)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OverallSatisfaction)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Comments)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.Id  }) |
+                    <a asp-action="Delete1" asp-route-id=@item.Id> Delete </a>
+               
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

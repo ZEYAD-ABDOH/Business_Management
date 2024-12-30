@@ -1,0 +1,541 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Arti.Client.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Arti.Client.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\CV\\30921a6e-8db5-4add-b618-3d94c41137e8.png",
+      "PackagePath": "staticwebassets\\CV\\30921a6e-8db5-4add-b618-3d94c41137e8.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\CV\\91360314-6d78-49e3-be25-d81b324af56d.png",
+      "PackagePath": "staticwebassets\\CV\\91360314-6d78-49e3-be25-d81b324af56d.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\CV\\a3568d67-af51-427a-a949-2d9ba349138d.png",
+      "PackagePath": "staticwebassets\\CV\\a3568d67-af51-427a-a949-2d9ba349138d.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\CV\\dd3a62ee-446f-4080-abe0-942bac928653.jpeg",
+      "PackagePath": "staticwebassets\\CV\\dd3a62ee-446f-4080-abe0-942bac928653.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\CV\\f628ece5-e464-4be5-b65c-4d4a2675a271.pdf",
+      "PackagePath": "staticwebassets\\CV\\f628ece5-e464-4be5-b65c-4d4a2675a271.pdf"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\css\\owl.css",
+      "PackagePath": "staticwebassets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\css\\styleH.css",
+      "PackagePath": "staticwebassets\\css\\styleH.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\css\\templatemo-villa-agency.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-villa-agency.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\10178992-a49c-4e26-a64f-8137d66ff05d.png",
+      "PackagePath": "staticwebassets\\images\\10178992-a49c-4e26-a64f-8137d66ff05d.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\55e3bcca-314f-4956-9bb8-24224a01fd8d.jpeg",
+      "PackagePath": "staticwebassets\\images\\55e3bcca-314f-4956-9bb8-24224a01fd8d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\6173ad00-0ede-4bea-bbf3-cf0fe59fae54.png",
+      "PackagePath": "staticwebassets\\images\\6173ad00-0ede-4bea-bbf3-cf0fe59fae54.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\about-banner-1.png",
+      "PackagePath": "staticwebassets\\images\\about-banner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\about-banner-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\af433929-f959-4ae3-a331-c255d1dfa114.png",
+      "PackagePath": "staticwebassets\\images\\af433929-f959-4ae3-a331-c255d1dfa114.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\author.jpg",
+      "PackagePath": "staticwebassets\\images\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\banner-01.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\banner-02.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\banner-03.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\blog-1.png",
+      "PackagePath": "staticwebassets\\images\\blog-1.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\dd.jpg",
+      "PackagePath": "staticwebassets\\images\\dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\deal-01.jpg",
+      "PackagePath": "staticwebassets\\images\\deal-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\deal-02.jpg",
+      "PackagePath": "staticwebassets\\images\\deal-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\deal-03.jpg",
+      "PackagePath": "staticwebassets\\images\\deal-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\email-icon.png",
+      "PackagePath": "staticwebassets\\images\\email-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\favicon.svg",
+      "PackagePath": "staticwebassets\\images\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\featured-icon.png",
+      "PackagePath": "staticwebassets\\images\\featured-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\featured.jpg",
+      "PackagePath": "staticwebassets\\images\\featured.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\hero-banner.png",
+      "PackagePath": "staticwebassets\\images\\hero-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\info-icon-01.png",
+      "PackagePath": "staticwebassets\\images\\info-icon-01.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\info-icon-02.png",
+      "PackagePath": "staticwebassets\\images\\info-icon-02.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\info-icon-03.png",
+      "PackagePath": "staticwebassets\\images\\info-icon-03.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\info-icon-04.png",
+      "PackagePath": "staticwebassets\\images\\info-icon-04.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\images\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\page-heading-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\page-heading-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\phone-icon.png",
+      "PackagePath": "staticwebassets\\images\\phone-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\property-01.jpg",
+      "PackagePath": "staticwebassets\\images\\property-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\property-02.jpg",
+      "PackagePath": "staticwebassets\\images\\property-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\property-03.jpg",
+      "PackagePath": "staticwebassets\\images\\property-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\property-04.jpg",
+      "PackagePath": "staticwebassets\\images\\property-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\property-05.jpg",
+      "PackagePath": "staticwebassets\\images\\property-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\property-06.jpg",
+      "PackagePath": "staticwebassets\\images\\property-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\property-1.jpg",
+      "PackagePath": "staticwebassets\\images\\property-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\property-2.jpg",
+      "PackagePath": "staticwebassets\\images\\property-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\property-3.jpg",
+      "PackagePath": "staticwebassets\\images\\property-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\property-4.png",
+      "PackagePath": "staticwebassets\\images\\property-4.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\service-1.png",
+      "PackagePath": "staticwebassets\\images\\service-1.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\service-2.png",
+      "PackagePath": "staticwebassets\\images\\service-2.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\service-3.png",
+      "PackagePath": "staticwebassets\\images\\service-3.png"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\single-property.jpg",
+      "PackagePath": "staticwebassets\\images\\single-property.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\video-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\images\\video-frame.jpg",
+      "PackagePath": "staticwebassets\\images\\video-frame.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\js\\counter.js",
+      "PackagePath": "staticwebassets\\js\\counter.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\js\\scripHt.js",
+      "PackagePath": "staticwebassets\\js\\scripHt.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abood\\source\\repos\\ProjectArti\\Arti.Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Arti.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Arti.Client.props",
+      "PackagePath": "build\\Arti.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Arti.Client.props",
+      "PackagePath": "buildMultiTargeting\\Arti.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Arti.Client.props",
+      "PackagePath": "buildTransitive\\Arti.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

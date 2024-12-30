@@ -1,0 +1,118 @@
+﻿@model IEnumerable<Arti.Client.Models.Craftsman>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@if (TempData["ADDS"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["ADDS"]
+    </div>
+}
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@await Html.PartialAsync("~/Views/Servece/AlertErorrcshtml.cshtml")
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CompanyID)
+            </th>
+          
+            <th>
+                @Html.DisplayNameFor(model => model.Images)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Skill)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Position)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BirtDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.YearsOfExperience)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CompanyID)
+            </td>
+
+                <td>
+                    @if (item.Images is not null)
+                    {
+                        <img src="~/images/@item.Images" alt="Alternate Text" width="50px" height="50px" />
+                    }
+                    else
+                    {
+                        <span>لا توجد بيانات </span>
+                    }
+
+
+                    @* @Html.DisplayFor(modelItem => item.Images) *@
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Skill)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BirtDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.YearsOfExperience)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    <a asp-action="Delete1" asp-route-id=@item.Id> Delete </a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

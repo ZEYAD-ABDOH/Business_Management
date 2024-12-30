@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Arti.Client.Models.JobApplication>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@if (TempData["ADDS"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["ADDS"]
+    </div>
+}
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@await Html.PartialAsync("~/Views/Servece/AlertErorrcshtml.cshtml")
+<table class="table">
+    <thead>
+        <tr>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.Position)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ResumeCV)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ApplicationDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StatuApplicant)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CompanyID)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+          
+            <td>
+                @Html.DisplayFor(modelItem => item.Position)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ResumeCV)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ApplicationDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StatuApplicant)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CompanyID)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    <a asp-action="Delete1" asp-route-id=@item.Id> Delete </a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
